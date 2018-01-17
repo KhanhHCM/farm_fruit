@@ -1,3 +1,3 @@
 class FruitMaster < ApplicationRecord
-	has_many :fruit_master_farms
+	has_and_belongs_to_many :farms
 end
