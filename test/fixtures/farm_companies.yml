@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  farm: one
+  company: one
+  delivery_date: 2018-01-16 14:46:17
+
+two:
+  farm: two
+  company: two
+  delivery_date: 2018-01-16 14:46:17

@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fruit_master: one
+  user: one
+  delirevy_date: 2018-01-16 16:30:00
+
+two:
+  fruit_master: two
+  user: two
+  delirevy_date: 2018-01-16 16:30:00

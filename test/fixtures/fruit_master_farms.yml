@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fruit_master: one
+  farm: one
+  title: MyString
+  detal: MyText
+  fruit_photo: MyString
+  fruit_photo1: MyString
+  fruit_photo2: MyString
+  fruit_photo3: MyString
+  price: MyString
+  sale_off: MyString
+  expiration_date: 2018-01-16
+  enable_flag: false
+
+two:
+  fruit_master: two
+  farm: two
+  title: MyString
+  detal: MyText
+  fruit_photo: MyString
+  fruit_photo1: MyString
+  fruit_photo2: MyString
+  fruit_photo3: MyString
+  price: MyString
+  sale_off: MyString
+  expiration_date: 2018-01-16
+  enable_flag: false

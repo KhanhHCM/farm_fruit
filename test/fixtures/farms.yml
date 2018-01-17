@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  place: one
+  farm_name: MyString
+  introduction: MyText
+  farm_photo: MyString
+
+two:
+  place: two
+  farm_name: MyString
+  introduction: MyText
+  farm_photo: MyString
